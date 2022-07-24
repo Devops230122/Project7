@@ -1,2 +1,2 @@
 HI 
-This will be my project description and workflow.
+This will be my project's description and workflow.
