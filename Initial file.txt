@@ -2,5 +2,9 @@ HI
 This will be my project's description and workflow.
 
 
+<<<<<<< HEAD
 
 Rebase text not added
+=======
+Added for Rebase command.
+>>>>>>> 30564a1d27c5e672becbdcc7f98b064be82f95ea
